@@ -1,1 +1,1 @@
-Sitemap: http://localhost:4000/https://betterlifestyle.netlify.app/sitemap.xml
+Sitemap: /https://betterlifestyle.netlify.app/sitemap.xml
