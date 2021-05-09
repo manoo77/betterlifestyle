@@ -1,0 +1,41 @@
+<div class="sidebar">
+        <div class="sidebar-section">
+            <h5><span>Recommended Products</span></h5>
+            <ul class="list-none;">
+                <a rel="noopener noreferrer nofollow" target="_blank" href="http://bit.ly/3aVnNMJ"><img src="../../../../../assets/img/Okinawa-Flat-Belly-Tonic.jpg" alt="Okinawa Flat Belly Tonic"  title="Okinawa Flat Belly Tonic" /></a><br /><br />
+                <a rel="noopener noreferrer nofollow" target="_blank" href="https://shrsl.com/2y5gl"><img src="../../../../../assets/img/Turmeric Curcumin-250-2.jpg"  alt="Turmeric curcumin" title="Heathy Blood Stream & Detoxify the Body" /></a><br /><br />
+                <a rel="noopener noreferrer nofollow" target="_blank" href="http://bit.ly/3nGQKkT"><img src="../../../../../assets/img/Unblock-My-Hormones-hb5-250.jpg" alt="unblock hormones"  title="unblock hormones "/></a><br /><br />
+                <a rel="noopener noreferrer nofollow" target="_blank" href="https://shrsl.com/2u6il"><img src="../../../../../assets/img/Veggie-ViteMulti-Vitamin-Complex_250x250.jpg"  alt="Veggie Vite Multi-Vitamin Complex" title="Veggie Multi Vitamin Complex" /></a><br /><br />
+                <a rel="noopener noreferrer nofollow" target="_blank" href="http://bit.ly/3nGakOj"><img src="../../../../../assets/img/The-Smoothie-Diet-1.jpg" alt="The Smoothie Diet" title="The Smoothie Diet" /></a><br /><br />
+                <a rel="noopener noreferrer nofollow" target="_blank" href="http://www.lnk123.com/SH14o1"><img src="../../../../../assets/img/Weight-Loss-with-Garcinia-Cambogia-1-250x208.gif" alt="lose weight with Garcinia Cambogia" title="Losing weight with Garcinia Cambogia" /></a><br /><br />
+                <a rel="noopener noreferrer nofollow" target="_blank" href="https://shrsl.com/2y3nq"><img src="../../../../../assets/img/Green-Tea-Extract-250x250.jpg"  alt="Green Tea Extract" title="Green Tea Extract " /></a><br />
+                 
+              </ul>                                                                                                                    
+        </div>
+        <ul class="tag-box inline"> 
+          <h5><span>Category</span></h5>   
+          {% for category in site.categories %}
+          <div><h6> <a href="/category/{{ category[0] }}/" style="text-decoration: none;">{% if category[0] == 'aws' %}{{ category[0] | upcase }}{% else %}{{ category[0] | capitalize | replace:'-' , ' '   }}{% endif %}</a></h6></div>
+            <ul>
+            {% for post in category.last %}
+            <div><a href="{{ post.url }}" style="text-decoration: none;">{{ post.title }}</a></div>
+            {% endfor %}
+            </ul>
+          </li>
+        {% endfor %}
+                    </ul>
+        <ul class="tag-box inline"> 
+          <h5><span>FREE OFFER</span></h5>  
+          {% include ebookForm.html %}
+         </ul>
+ </div>     
+</div>
+
+
+
+
+
+
+
+
+
