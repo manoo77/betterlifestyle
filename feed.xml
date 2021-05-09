@@ -1,30 +1,578 @@
----
-layout: null
----
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{{ site.title | xml_escape }}</title>
-    <description>{{ site.description | xml_escape }}</description>
-    <link>{{ site.url }}{{ site.baseurl }}/</link>
-    <atom:link href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" rel="self" type="application/rss+xml"/>
-    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
-    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
-    <generator>Jekyll v{{ jekyll.version }}</generator>
-    {% for post in site.posts limit:10 %}
+    <title>Tips &amp; Products To Lose Weight and Stay Healthy</title>
+    <description>The Healthy Lifestyle Station site provides tips and tutorial on how to burn excess fat and keep your body in shape</description>
+    <link>http://localhost:4000https://lifestylechange.netlify.app/</link>
+    <atom:link href="http://localhost:4000https://lifestylechange.netlify.app/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 09 May 2021 14:20:48 +0430</pubDate>
+    <lastBuildDate>Sun, 09 May 2021 14:20:48 +0430</lastBuildDate>
+    <generator>Jekyll v4.1.1</generator>
+    
       <item>
-        <title>{{ post.title | xml_escape }}</title>
-        <description>{{ post.content | xml_escape }}</description>
-        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
-        <link>{{ post.url | prepend: site.baseurl | prepend: site.url }}</link>
-        <guid isPermaLink="true">{{ post.url | prepend: site.baseurl | prepend: site.url }}</guid>
-        {% for tag in post.tags %}
-        <category>{{ tag | xml_escape }}</category>
-        {% endfor %}
-        {% for cat in post.categories %}
-        <category>{{ cat | xml_escape }}</category>
-        {% endfor %}
+        <title>5 Simple Steps to Losing Weight</title>
+        <description>&lt;p&gt;Losing weight and keeping it off, so if you have some extra fat just like many people, all of you know all the reasons why we should drop some weight. It will reduce the stress on our heart, decreasing the opportunity of coronary illness, malignant growth, probability of diabetes; feel much better, look progressively appealing, and so forth.&lt;/p&gt;
+
+&lt;p&gt;There are many reasons why however it can be very hard to lose some fat. You push extremely hard, lose some and in a short time, you realized you have gained some weight back again and you are heavier than you began.&lt;/p&gt;
+
+&lt;p&gt;It’s really crazy. so now enough with this issue, I have assembled 5 straightforward ways to really help you &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;losing weight&lt;/a&gt; and keeping it off. These steps can be applied to anything, yet we are concentrating on weight reduction here.&lt;/p&gt;
+
+&lt;p&gt;1- To Know What You Really Want 
+2- To Know Where Exactly You Are 
+3- Record Your Outcome 
+4- Adjust or Edit Your steps
+5- Being considered Accountable&lt;/p&gt;
+
+&lt;p&gt;Presently the entirety of your additional weight will easily soften off. Better believe it right! A basic rundown of 5 things won’t do it, so let me clarify the complexities of the 5 things and where the hang-up ordinarily happens when applied to lose some fat.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/heatthy-food-plate.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;To Know What You Really Want&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;This one is dead straightforward. The vast majority that needs to get more fit have a thought of what number of pounds they might want to lose or how they might want their body to look.&lt;/p&gt;
+
+&lt;p&gt;I figure we can securely say if your body began looking how you would have preferred it, you would know, regardless of whether you didn’t have it totally mapped out with details.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;To Know Where Exactly You Are&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;This is the large excursion up. It is quite often ignored and is the main purpose behind the here and there Yo impact we involvement in shedding pounds. We are discontent with how our body feels and what it looks like and it is difficult to zoom in and get a precise image of where we are. Sadly, we need to know where we are, to have the option to precisely pass judgment on the outcomes we are getting.&lt;/p&gt;
+
+&lt;p&gt;You are out traveling to San Diego, California. You might want to begin your outing from Phoenix, Arizona, yet you truly don’t have the foggiest idea where you are. Don’t worry about it. You get an Arizona/California guide and locate that a straightforward 6 hours trip west on interstate 8 will get you to San Diego.&lt;/p&gt;
+
+&lt;p&gt;After 6 hours, you do not understand where you are and it is certainly not warm San Diego. You feel crushed and you need to surrender! Do you accuse the vehicle? The dumb maps? San Diego? Yourself?&lt;/p&gt;
+
+&lt;p&gt;Presently imagine a scenario in which I let you know, you were very New Your City, not Phoenix, Arizona. A 6-hour vehicle ride west from New York City will never get you to San Diego.&lt;/p&gt;
+
+&lt;p&gt;If you took the time to accurately find out where you were, you would have been able to choose the appropriate means to get to San Diego and have an expectation as to how long it would take.&lt;/p&gt;
+
+&lt;p&gt;In the event that you set aside the effort to precisely discover where you were, you would have had the option to pick a suitable way to get to San Diego and have a desire with regards to what extent it would take.&lt;/p&gt;
+
+&lt;p&gt;This is the equivalent of &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;weight reduction&lt;/a&gt; and our own state of being. In our brains, we think we are beginning in an alternate state of being than we truly are. At the point when the outcomes don’t follow the fantasy in your brain, we get resentful.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss programh&quot; src=&quot;../../../../../assets/images/losing-fat-package.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Record Your Outcome &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;This is actually basic. On the off chance that we have no idea concerning WHAT we are doing, how would we realize what is functioning? It may be easy to do, but at the same time is basic not to do. At long last, a great many people never track their outcomes.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Make Course Corrections &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;We love to do this one. We have it without a doubt. It resembles stage 1 of recognizing what you need. We attempt the new food diet, the super sit-up machine, and the cardio hip bounces power vitality yoga fat killer class.&lt;/p&gt;
+
+&lt;p&gt;We may be incredible at changing things up, however without knowing where we are beginning from and a background marked by followed results, we have no idea concerning what we should alter or even which course we ought to go.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Being considered Accountable &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Actually no, not responsibility! That is an underhanded word. I don’t need somebody to realize what I am doing, or all the more critically what I am not doing.&lt;/p&gt;
+
+&lt;p&gt;All in all, for what reason do we oppose responsibility, your unmistakable advantage to weight reduction? Since it works! On the off chance that you realize somebody will be watching, you would finish or possibly feel entirely awkward not finishing.&lt;/p&gt;
+
+&lt;p&gt;Responsibility when utilized admirably is a definitive turbo promoter to your weight reduction. Since you will be responsible at any rate, you should receive something in return.&lt;/p&gt;
+
+&lt;p&gt;Utilizing responsibility in advance, you can accomplish the body you had always wanted. In the event that you let your body consider you responsible, it will help you losing weight and keeping it off.&lt;/p&gt;
+
+&lt;p&gt;The greatest hindrance to &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;weight loss&lt;/a&gt; isn’t making any move. It doesn’t make a difference how great the arrangement is, it is useless in the event that you don’t tail it.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;http://bit.ly/3ePUDA0&quot; target=&quot;_blank&quot;&gt;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Click To Learn More…&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/weight-loss-program-1-300.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 01 May 2020 00:00:00 +0430</pubDate>
+        <link>http://localhost:4000https://lifestylechange.netlify.app/losing-weight/2020/05/01/5-simple-steps-to-losing-weight/</link>
+        <guid isPermaLink="true">http://localhost:4000https://lifestylechange.netlify.app/losing-weight/2020/05/01/5-simple-steps-to-losing-weight/</guid>
+        
+        
+        <category>Losing-weight</category>
+        
       </item>
-    {% endfor %}
+    
+      <item>
+        <title>5 Super Simple Weight Loss Tips</title>
+        <description>&lt;p&gt;&lt;b&gt;Weight loss tips&lt;/b&gt;
+These days losing weight is one of those subjects that everybody is continually discussing. It appears you can’t go anyplace without seeing or hearing some kind of weight reduction message. Accounts of the perils of not getting the thinner show up routinely on the evening news. Retail outlets and the Internet both are brimming with weight reduction books and items.&lt;/p&gt;
+
+&lt;p&gt;Getting Weight loss tips is talked about in clinical focuses and at schools and even in the workplace. In case you’re attempting to get more fit, here are a couple of tips to make you go.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/jenna-b_a-no-text-300x235.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Tip #1 – Stop Talking About Weight Loss! &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;All that discussion about the amount you need to shed pounds won’t make the weight fall off. You must make a move, beginning at the present time. So accept this basic counsel:  Stop moving your mouth and begin moving your body! It won’t take long to start seeing the outcomes.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Tip #2 – Slow and Steady is Best&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;Gradual weight loss&lt;/a&gt; is better (and more secure) than riding the abstaining from excessive food intake roller napkin. In case you’re searching for dependable weight reduction results, plan to lose a normal of around two pounds each week. So as to shed pounds you must expend fewer calories than you consume.&lt;/p&gt;
+
+&lt;p&gt;As a little something extra, when you consolidate eating less junk food with work out, you’ll be diminishing your caloric admission and expanding your caloric consumption rate simultaneously.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Tip #3 – Save Your Money&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Try not to spend your well-deserved cash on the most recent weight reduction contrivances. Pills, prevailing fashion eats fewer carbs, spellbinding and outrageous surgeries are not the appropriate response! These contrivances won’t thin you down, however, they will swell the financial balances of the individuals who advance them! Eating a healthfully adjusted eating regimen of natural products, vegetables, great fats, and lean proteins will empower weight loss quicker than any supernatural occurrence fix you can purchase.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/img/weight-loss-package.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Tip #4 – Losing Weight is a Way of Life Tragically&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The issue of weight is something that the vast majority will battle with all through life. Abundance-handled nourishment and a stationary way of life are the two greatest givers to this steady battle.  On the off chance that you need to get thinner and keep it that way, you must change the manner in which you consider food. It ought to be thought of as a wellspring of fuel, not an enthusiasm. Effective weight reduction truly is tied in with making way of life changes, counting settling on the correct food decisions, and afterward staying with those decisions all through life.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;Tip #5 – Weight Loss is More Than a Number &lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Another &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;Weight loss&lt;/a&gt; tips, at the point when you’re eating less junk food, don’t turn into a casualty of the feared scale. When the numbers go down, bliss goes up. In any case, when the numbers remain the equivalent or go up, it is anything but difficult to surrender and yield. Recall that regardless of whether your weight isn’t changing as you might want, your body is.&lt;/p&gt;
+
+&lt;p&gt;You’ll be caring more for your heart. You’ll be bringing down your cholesterol levels. You’ll be wearing a less fatty body and your garments will start fitting all the more easily. 
+ At the point when you figure out how to discover happiness in these other benefits, you’ll need to continue being a washout!&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/25-weight-loss.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;http://bit.ly/3ePUDA0&quot; target=&quot;_blank&quot;&gt;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Click To Learn More…&lt;/a&gt;&lt;/h4&gt;
+</description>
+        <pubDate>Sat, 18 Apr 2020 00:00:00 +0430</pubDate>
+        <link>http://localhost:4000https://lifestylechange.netlify.app/losing-weight/2020/04/18/5-super-simple-weight-loss-tips/</link>
+        <guid isPermaLink="true">http://localhost:4000https://lifestylechange.netlify.app/losing-weight/2020/04/18/5-super-simple-weight-loss-tips/</guid>
+        
+        
+        <category>Losing-weight</category>
+        
+      </item>
+    
+      <item>
+        <title>Avoid Dieting Make Positive Changes Instead</title>
+        <description>&lt;p&gt;&lt;b&gt;Losing Weight By Diet&lt;/b&gt;
+How can it be that only saying the “D” word, you know “diet” brings immediate thoughts of failure to the minds of many people around the globe. Could it be that we have been told that diets simply do not work?&lt;/p&gt;
+
+&lt;p&gt;Might it be able to be that we have all educated through experimentation that consumes fewer calories essentially don’t work?&lt;/p&gt;
+
+&lt;p&gt;I know a significant number of you are sitting back with jaws dropped right now. All things considered, this is an article about abstaining from excessive food intake, isn’t that so? It is and it isn’t. Counting calories is the kiss of death for some while another stage in your life or way of life alteration might be only what will mean accomplishment for you and your wellness and well-being objectives.&lt;/p&gt;
+
+&lt;p&gt;Eating for some is enslavement. Shockingly, you can’t actually quit any pretense of eating all together can surrender cigarettes.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/7-weight-loss.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;I’m not holding a candle to the current situation using any and all means that surrendering cigarettes is simple however what amount progressively troublesome would it be on the off chance that you had to have three every day? By then, you should appreciate them each time the urge hits right? Similar remains constant for food. You should eat so as to endure. You can’t live without eating. This implies if food is an issue in your life, you should locate a more advantageous method of review food.&lt;/p&gt;
+
+&lt;p&gt;Isn’t this where eats less, for the most part, proved to be useful? The short answer is no. This is the place slims down regularly come up short. &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;Losing weight&lt;/a&gt; by diet do next to no to change how we see food. Truth be told, most weight control plans just serve to disclose to us which nourishment is acceptable, which nourishments are awful, and which nourishments (commonly the majority of the food sources we appreciate most) are carefully no-no.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/losing-fat-package.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Losing weight by diet starts by constraining individuals to feel denied or rebuffed. What’s more, nobody likes to feel both of these things.&lt;/p&gt;
+
+&lt;p&gt;Far more detestable, notwithstanding, is that we rebuff ourselves further when we slip along the straight and thin pathways whereupon our eating regimens place us. This implies we are going to flounder in blame over each and every slip up we make until we surrender out and out and choose to enjoy by and by and disregard the blame altogether.&lt;/p&gt;
+
+&lt;p&gt;So as to have genuine achievement, you should make a way of life change. This is the main way that you will have the option to shed those undesirable pounds without encountering the repulsive blame that such a large number of weight watchers experience every single step of the route with their eating regimens. Set objectives for yourself. Keep them forceful however practical for wellness, dropping pounds, and eating new solid nourishments. Regardless of whether your objective is as basic as eating 5 vegetable servings daily, it is an extraordinary spot to begin.&lt;/p&gt;
+
+&lt;p&gt;Change your method of eating. At that point change your method of seeing food and you will encounter astonishing changes in your mentalities toward your well-being, your body, and even your wellness level. As the primary pounds drop you will start to encounter more vitality and less agony when working out. This should help keep you inspired to do considerably more as time passes by.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/weight-loss-struggel-208x300.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Try not to believe that drawn-out &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;weight reduction&lt;/a&gt; objectives will be as simple to accomplish as the initial five or ten pounds. Consistency is indispensably significant when making this way of life changes. Accept every day as it comes and starts again the following day. This implies regardless of whether you fall totally “off the cart” today, you can begin once again tomorrow. The stunt is in continuing through to the end a larger number of days than not and learning balance and equalization with regards to wandering from an honest way of living.&lt;/p&gt;
+
+&lt;p&gt;There are numerous approaches to bomb with regards to eating less junk food and I know individuals who have flopped in nearly everybody I can envision. It is extremely unlikely to come up short, in any case, when you are rolling out positive improvements throughout your life that are getting positive outcomes. It might take weeks, months, or even a very long time to arrive at your objective. For whatever length of time that you are putting forth consistent and nonstop attempts and progress, you are doing numerous extraordinary things for your well-being and prosperity.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;http://bit.ly/3ePUDA0&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot; aria-label=&quot;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Learn More... (opens in a new tab)&quot;&gt;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Click To Learn More...&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/weight-loss-program-2-300.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 09 Apr 2020 00:00:00 +0430</pubDate>
+        <link>http://localhost:4000https://lifestylechange.netlify.app/dieting-and-weight-loss/2020/04/09/avoid-dieting-make-positive-changes-instead/</link>
+        <guid isPermaLink="true">http://localhost:4000https://lifestylechange.netlify.app/dieting-and-weight-loss/2020/04/09/avoid-dieting-make-positive-changes-instead/</guid>
+        
+        
+        <category>Dieting-and-weight-loss</category>
+        
+      </item>
+    
+      <item>
+        <title>Cross Training for Fitness and Fatloss</title>
+        <description>&lt;p&gt;The numbers on your scale don’t show whether you are fit or fat. Unmistakably more noteworthy than your absolute body weight is the arrangement of your body tissue. On the off chance that a man’s fatty tissue is greater than 14% up to 15% of his weight, or if a lady’s fatty tissue is over 20% to 22%, the individual is overweight, or all the more exactly, overfat.&lt;/p&gt;
+
+&lt;p&gt;A limited quantity of fat is required for cushioning the inside organs and as protection under the skin. Abundance fat prompts such maladies as diabetes, gout, hypertension, coronary vein sickness, and gallbladder issues. There are not many, fat people. The explanation is that the fittest survive not the overweighted.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/25-weight-loss.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The difficulty currently is centered around how to determine the issue. The issue with a great many people who need to get in shape is that they have the inclination to focus more on getting those numbers lower than what they are seeing at this point. What occurs next is that they endeavor more enthusiastically to accomplish a lower weight, as indicated by the “ever solid” aftereffect of the gauging scale.&lt;/p&gt;
+
+&lt;p&gt;It would be more imperative to think of the human body as a heat-exchange motor that works on the fundamental standards of vitality physics. The caloric adjustment rises to the overall calorie admissions short the full calorie use.&lt;/p&gt;
+
+&lt;p&gt;A portion of the calories individuals ingest are utilized for basal digestion. As individuals get old, their bodies require fewer calories for this essential upkeep. A few calories are discharged as waste items. Some go into “work digestion,” the vitality consumption required for any physical movement.&lt;/p&gt;
+
+&lt;p&gt;Consequently, if individuals take in a greater number of calories than are utilized by these capacities, there is an unmistakable caloric abundance. By the laws of material science, vitality is changed instead of decimated. For this situation, every abundance of 3,500 calories is changed into a pound of fat. On the off chance that individuals need to invert this procedure, they need to consume 3,500 calories to lose a solitary pound. &lt;br /&gt; &lt;b&gt;&lt;a href=&quot;http://bit.ly/3ePUDA0&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot; aria-label=&quot;Winning the War Against Fat (opens in a new tab)&quot;&gt;Winning the War Against Fat&lt;/a&gt; &lt;/b&gt;&lt;br /&gt;At the point when you consider battling fat with work out, you likely consider long periods of hard, damp with sweat effort. If so, at that point, you won’t get any farther. This is on the grounds that individuals who are such a great amount into losing more by applying more exertion will, in general, get exhausted without any problem.&lt;/p&gt;
+
+&lt;p&gt;Why? Since specialists battle that when individuals apply more exertion than what they can do makes an inclination to create exhaustion and apathy. Subsequently, they surrender, quit doing their standard activities, and end up being in the corner with a bag of chips that appears to have all the awful calories in this world.&lt;/p&gt;
+
+&lt;p&gt;Well, you may ask, “What should we do?”  The appropriate response: Cross-training.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+After some intensive investigations and experimentations, health specialists had the option to concoct the idea of consolidating cross-training so as to survive or break the repetitiveness or bluntness in an activity program. 
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/img/weight-loss-package.png&quot; /&gt;&lt;/a&gt;
+    &lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;cross-training alludes to the joining of differing developments or exercises into an individual’s ordinary exercise schedule. The primary reason for fusing cross training into an activity program is to abstain from exaggerating abundance muscle harms and to end unavoidable fatigue.&lt;/p&gt;
+
+&lt;p&gt;Three of the most generally utilized exercises at whatever point an individual chooses to draw in into cross training are swimming, running, and cycling.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/weight-loss-scale-340.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;In cross-training, separation is one approach to broaden your movement as your condition improves. Hence, you have to navigate a deliberate separation.&lt;/p&gt;
+
+&lt;p&gt;In the event that conceivable, swim the course and measure the separation. On the off chance that you will utilize a running track, such courses, as a rule, are a quarter-mile per lap for a total circuit.&lt;/p&gt;
+
+&lt;p&gt;cross-training offers an assortment of advantages for &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;wellness and fat loss&lt;/a&gt;. It develops the quality and perseverance of the heart, lungs, and veins. It has likewise some sedating impact on the nerves, and it consumes calories as much as it makes your “getting in shape” increasingly tolerable.&lt;/p&gt;
+
+&lt;p&gt;cross-training has three fundamental segments:&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;1- &lt;/b&gt;Perseverance activities to condition the heart, lungs, and veins and to incite unwinding. These start with a cautious arranged strolling and running routine, contingent upon wellness level.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;2- &lt;/b&gt;Activities to fortify the muscles, especially those critical to great stance. 
+ These incorporate a few exercises that are chosen to empower a few people who are as of now worn out with a specific daily practice.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;3- &lt;/b&gt;Activities to improve joint versatility and forestall or alleviate a throbbing painfulness. These comprise a progression of static extending places that are protected and viable for the majority of the individuals who wish to attempt to lose some fat.&lt;/p&gt;
+
+&lt;p&gt;Surely, cross-training is an extraordinary method to adjust the idea of &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;practicing and losing fat&lt;/a&gt; without suffering tedious exercises. Truth be told, practicing is to like what you are doing, consequently, on the off chance that you draw in into cross-training, you will know about it that you have as of now accomplish your ideal weight.&lt;/p&gt;
+
+&lt;p&gt;Come down, cross-training is, unquestionably, one method of having some good times.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;http://bit.ly/3ePUDA0&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot; aria-label=&quot;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Learn More... (opens in a new tab)&quot;&gt;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Click To Learn More...&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/weight-loss-program-2-300.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 05 Apr 2020 00:00:00 +0430</pubDate>
+        <link>http://localhost:4000https://lifestylechange.netlify.app/exercise-for-fitness-and-fat-loss/2020/04/05/5-cross-training-for-fitness-and-fatloss/</link>
+        <guid isPermaLink="true">http://localhost:4000https://lifestylechange.netlify.app/exercise-for-fitness-and-fat-loss/2020/04/05/5-cross-training-for-fitness-and-fatloss/</guid>
+        
+        
+        <category>Exercise-for-fitness-and-fat-loss</category>
+        
+      </item>
+    
+      <item>
+        <title>Benefits of Stretching</title>
+        <description>&lt;p&gt;The body is adaptable. It should be adaptable. You should have the option to curve and arrive at that something you dropped on the floor. You should have the option to zip the rear of your preferred dress all alone. You should have the option to arrive at that book you have to peruse at the best in class. 
+These are straightforward exercises. Nothing terrific about them, you simply loosened up a piece. Be that as it may, on the off chance that there are troubles in doing such straightforward movements, at that point you need to extend your cutoff points. You as of now need an extending program.&lt;/p&gt;
+
+&lt;p&gt;What Is Stretching?&lt;/p&gt;
+
+&lt;p&gt;Stretching is basically the demonstration of stretching out to full length the body or just a piece of it. This action includes fixing or extending the structure or appendages.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss programh&quot; src=&quot;../../../../../assets/images/3-weight-loss.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;How Does One Do the Stretching?
+Stretching is genuinely simple. As referenced in the presentation, it is engaged with ordinary exercises. It very well may be finished by any individual, paying little mind to age.&lt;/p&gt;
+
+&lt;p&gt;In any case, the degree of stretching and flexing contrasts. The muscles fix as individual ages. The scope of joint developments can be limited. This can impede a hurried way of life. That is the reason as the individual develops more established, twisting or flexing turns out to be progressively restricted. This is the reason extending normally, as a major aspect of a routine is significant.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+Straightforward stretches should be possible consistently. It very well may be joined in the way of life and everyday exercises. It doesn't require a lot of your time.
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/losing-fat-package.jpg&quot; /&gt;&lt;/a&gt;
+    &lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Stretching activities should likewise be possible while preparing. In reality, stretching is a basic piece of preparation or game. It must be done first before whatever else. Stretching the body and the appendages is the acceptable groundwork for progressively thorough action.&lt;/p&gt;
+
+&lt;p&gt;Most athletes would do the sit and reach, wherein they position on the floor, broaden their legs and arrive at the tip of their foot with the tip of their hand. All things considered, most mentors really require their competitors to truly do the stretching before playing.&lt;/p&gt;
+
+&lt;p&gt;There is really a perfect time span in stretching. It is ideal to do it in a short time. This will give the body enough chance to move and utilize the muscles, consequently setting it up for increasingly convoluted and demanding developments.&lt;br /&gt;
+Specialists anyway would dislike going route past 10 minutes. Stretching the activity to 30 minutes or more will as of now destroy the body. This won’t be good on the off chance that one is getting ready for a game.&lt;/p&gt;
+
+&lt;p&gt;What Are the Benefits of Stretching?&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/22-weight-loss.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;1- Increase the Range of Movement
+ As one continually does the stretching works out, the length of the muscles and the ligaments are likewise expanded. This will help in stretching the scope of your development. Therefore, the appendages and joints will have the option to move, path before a physical issue can occur. You are certainly genuinely fit.&lt;/p&gt;
+
+&lt;p&gt;2- Increased Ability to Perform Skills
+ At the point when you have a wide scope of development, the more you will have the option to accomplish more things. For instance, you can bounce high without feeling any torment when you land back on the floor. This will likewise assist you with beginning another game or improve more in the event that you are in one. Stretching in this viewpoint likewise permits you to have an increasingly dynamic way of life.&lt;/p&gt;
+
+&lt;p&gt;3- Injury Prevention
+ One can forestall injury to joints, ligaments, and muscles with stretching. At the point when the muscles and ligaments are all around flexed, they are considered in acceptable working request. This will help in quicker recuperation and diminished irritation. The muscles of the body will have the option to take all the more debilitating and thorough developments with less likelihood of being harmed.&lt;/p&gt;
+
+&lt;p&gt;4- Reduce Muscle Tension
+ In the event that the muscles are given their ordinary activities and stretching, it is more uncertain than they will contract. This will ease you with any muscle agony or issues.&lt;/p&gt;
+
+&lt;p&gt;5- Enhance Energy
+ Having the option to move more will likewise give you more vitality. Stretching will likewise help improve your mindfulness, such as realizing that you have a body that can do numerous things. In that capacity, you will be more headed to move as opposed to mope in the corner.&lt;/p&gt;
+
+&lt;p&gt;6- Reduces Cholesterol
+ The examination additionally shows that doing delayed stretching works out, similar to yoga, which will help diminish the cholesterol in the body. This obviously should be finished with a solid eating regimen within reach. This could forestall and even opposite the solidifying of the conduits, permitting you to maintain a strategic distance from coronary ailments. 
+Join extending into your regular way of life. 
+It has benefits you can not say no to. It likewise doesn’t require a lot. It tends to be your standard exercises, bowing, and flexing from time to time. All things considered, your wellness is everything so take the necessary steps to keep the body sound.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;http://bit.ly/3ePUDA0&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot; aria-label=&quot;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Learn More... (opens in a new tab)&quot;&gt;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Click To Learn More...&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/sarah-square.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sun, 29 Mar 2020 00:00:00 +0430</pubDate>
+        <link>http://localhost:4000https://lifestylechange.netlify.app/exercise-for-fitness-and-fat-loss/2020/03/29/benefits-of-stretching/</link>
+        <guid isPermaLink="true">http://localhost:4000https://lifestylechange.netlify.app/exercise-for-fitness-and-fat-loss/2020/03/29/benefits-of-stretching/</guid>
+        
+        
+        <category>Exercise-for-fitness-and-fat-loss</category>
+        
+      </item>
+    
+      <item>
+        <title>Dieting and Fitness</title>
+        <description>&lt;p&gt;&lt;b&gt;Diet For Fitness&lt;/b&gt;
+With regards to carrying on with long and sound life, there are two essential fixings: diet for fitness and wellness. While some accept that they are one thing altogether, nothing could be further from reality. It is very conceivable to have a fit as a fiddle diet with unfortunate wellness propensities. It is similarly conceivable to be genuinely fit with not exactly exquisite dietary patterns.&lt;/p&gt;
+
+&lt;p&gt;There’s a sharp little line in the Jimmy Buffet melody “Nut cakes” when his ‘woman’ is bemoaning:&lt;br /&gt;
+ “I treat my body like a sanctuary You treat yours like a tent”&lt;/p&gt;
+
+&lt;p&gt;I can’t resist the urge to think about this line at whatever point I consider all the individuals around the globe who are going on these trash in, trash out eating regimen plans wanting to make the weight reduction progress of the individuals who are supporting these items.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/28-weight-loss.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Cutting straight to the chase, it is conceivable to burn pounds through an eating routine alone. It is troublesome however conceivable. It is additionally conceivable to be physically fit and have a couple of additional pounds sticking around. To an enormous degree, we are what we eat. On the off chance that we devour a high-fat low substance diet, our bodies are going to do not have the fuel required to consume the fat. Simultaneously on the off chance that we aren’t giving our bodies the instruments, it needs to build muscle it doesn’t make a difference in what number of loads we lift.&lt;/p&gt;
+
+&lt;p&gt;With regard to eating fewer carbs and wellness, the best outcomes are accomplished when they cooperate instead of independently. Utilize your wellness routine to consume abundance calories and utilize your eating routine so as to appropriately give your body the supplements and fuel it needs to fabricate muscle. I’ve heard commonly in my life that a pound of muscle weighs not exactly a pound of fat. While this isn’t correct in any way, a pound is a pound notwithstanding; a pound of muscle consumes less space on the body than a pound of fat.&lt;/p&gt;
+
+&lt;p&gt;Pound for pound, I would much prefer mine to be made out of muscle over fat. Abstaining from excessive food intake alone doesn’t manufacture muscle and that is something you will do well to recollect in your endeavors.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/20-weight-loss.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;You ought to likewise understand that as you are building muscle you might be shedding inches while not demonstrating a lot of progress on the scale. It is significant that you remember this all through the weight reduction process. Try not to gauge your advancement by the scales alone or you will accomplish deceiving results.&lt;/p&gt;
+
+&lt;p&gt;The issue is that extremely numerous individuals do only this and get disappointed and give up when they are really making some progress. Try not to permit yourself to be a survivor of the scales. Glance in the mirror, try on one of your tight pants, and measure your waistline. Measure your prosperity by how you feel in the wake of climbing a stairway not by what number of pounds fell of the scale this week.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/img/weight-loss-package.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;By consolidating wellness into your eating regimen routine you are likewise empowering your body to &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;consume off any additional calories&lt;/a&gt; you may have devoured during the day. This implies on the off chance that you need to have a little ‘cheat’ during your day, you can compensate for it by consuming a couple of a larger number of calories than typical at night. This isn’t something that ought to happen regularly however an infrequent event won’t represent the deciding moment of your eating regimen.&lt;/p&gt;
+
+&lt;p&gt;You ought to likewise take a gander at abstaining from excessive food intake and wellness as a ball and glove sort of relationship. While you can take care of business without the glove, it appears to work so much better in the event that you have both. Diet for fitness and wellness when joined can make &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;awesome weight loss results&lt;/a&gt; for the individuals who pay attention to them both.&lt;/p&gt;
+
+&lt;p&gt;The thing to recall is that neither functions too alone and neither one of them will work except if you are eager to accomplish the work. You should focus on this in your life so as to accomplish the most ideal outcomes.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;http://bit.ly/3ePUDA0&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot; aria-label=&quot;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Learn More... (opens in a new tab)&quot;&gt;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Click To Learn More...&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/weight-loss-program-3-300.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 14 Mar 2020 00:00:00 +0330</pubDate>
+        <link>http://localhost:4000https://lifestylechange.netlify.app/dieting-and-weight-loss/2020/03/14/dieting-and-fitness/</link>
+        <guid isPermaLink="true">http://localhost:4000https://lifestylechange.netlify.app/dieting-and-weight-loss/2020/03/14/dieting-and-fitness/</guid>
+        
+        
+        <category>Dieting-and-weight-loss</category>
+        
+      </item>
+    
+      <item>
+        <title>3 Simple Steps To Lose Body Fat</title>
+        <description>&lt;p&gt;&lt;b&gt;Best Way Of Losing Weight&lt;/b&gt;
+To lose fat, you have to apply simplicity and in addition to extreme science since seeing how to lose weight includes your attention to BOTH ideas. Right now is an ideal opportunity to set up your heart and brain for the relentless test, reliable center, and most extreme consideration.&lt;/p&gt;
+
+&lt;p&gt;You are here looking for some reasonable cure, right? Our time together here is undeniably increasingly advantageous on the off chance that I simply feel free to let you know, at this moment, the stuff to lose weight. More or less, your greatest key is mental readiness. That’s right. That is the big deal!&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/28-weight-loss.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;When you find how to persuade your psyche to issue “best way of losing weight” orders, you are well headed to wellness achievement. To &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;lose fat&lt;/a&gt;, at that point, is a very basic issue. Ye, obviously, the trouble you may confront lies in your underlying THINKING, at that point the truth of DOING.&lt;/p&gt;
+
+&lt;p&gt;There are a couple of things you should do so as to lose fat. In the event that and when you are willing and prepared to do these things, you make certain to lose fat, beyond a shadow of a doubt.&lt;/p&gt;
+
+&lt;p&gt;Long haul “LOSE BODY FAT” SOLUTION&lt;/p&gt;
+
+&lt;p&gt;Does It Really Pay To Seek A Short Cut To Lose-Body-Fat Satisfaction?&lt;/p&gt;
+
+&lt;p&gt;After you turn yourself for all intents and purposes right around in a &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;lose body fat&lt;/a&gt; hover by posing inquiries from sources that either truly doesn’t have the foggiest idea about reality, or far and away more terrible, just consideration to advise whatever it takes to isolate you from your checkbook, charge card, or wallet - the straightforwardness and long-term duality of how to lose body fat stay unaltered. Straightforwardness versus multifaceted nature… the long route around versus alternate way arrangement.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/losing-fat-package.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Someone or somebody (which means YOU) needs to accomplish the work! You need to find the best way of losing weight that is the reason you’re here. In this way, your body needs to connect with required, time demonstrated, proficient rules that substantiate themselves for you on and on.&lt;/p&gt;
+
+&lt;p&gt;To put it plainly, to &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;lose weight&lt;/a&gt; you obviously build independence, self-assuredness, certainty, and other lose fat aptitudes that shockingly exude from your psychological scholarly potential instead of only your present physical capacity.&lt;/p&gt;
+
+&lt;p&gt;The most effective method to LOSE BODY FAT - HERE IS YOUR 3-STEP CURE&lt;/p&gt;
+
+&lt;p&gt;Essentially do these three things to lose extra body fat:&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;ONE:&lt;/b&gt; Once and for all, figure out how to discover your day-by-day caloric utilization AND your vitality use numbers. Both of these numbers are totally essential since they let you know precisely what your body is doing, directly down to the very calorie. When this estimation procedure turns out to be natural to you, full control of the amount of body fat you convey lays right in the palms of your very hands.&lt;/p&gt;
+
+&lt;p&gt;As it were, you can shape your “lose fat” fortune and modify your fit body appearance precisely how you need it to be.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://www.lnk123.com/SH136K&quot;&gt;&lt;img alt=&quot;lose weight the right way&quot; src=&quot;../../../../../assets/img/Coffee-Bean-Project-AN-23-8-12-250x250-1.gif&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;TWO:&lt;/b&gt; Work out generally, utilizing significantly more drive and power than you ever have before in all your years! I express this to you basically in light of 1) remotely cognizant human propensities that we as a whole have toward unwinding and removing the easy route from a difficult circumstance as opposed to confronting and vanquishing its underlying driver, in addition to 2) supported exercise science information says that performing at higher limits gives you life-broadening advantages and consumes higher measures of calories from overabundance fat ratio. In this way, to hugely yet securely lose body fat, start to prepare yourself for high power stretch exercise.&lt;/p&gt;
+
+&lt;p&gt;You may consume twice the same number of calories as you did previously, in addition, to feeling much improved and look better, as well.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;THREE:&lt;/b&gt; Lastly, realize that the whole weight reduction loss fat situation rotates around one, indispensable and never-evolving idea: Being overweight, in this manner, expecting to lose fat, stays an immediate aftereffect of eating an excessive amount of food and not getting enough exercise. Presently, with this last one, permit me to disengage your greatest likely hindrance.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://www.lnk123.com/SH136I&quot;&gt;&lt;img alt=&quot;lose weight the right way&quot; src=&quot;../../../../../assets/img/Garcinia-125x125-1.gif&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The main issue is that you hear this exact same &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;lose weight&lt;/a&gt; news so much thus frequently that your cerebrum in a flash goes into SHUT-DOWN or shut-off mode. That is, the inclination to accept the “I’ve Been There Before, Heard It All Before, Done It All Before, and It Never Works for Me” disorder kicks in right away.&lt;/p&gt;
+
+&lt;p&gt;The arrangement? Put on some new “lose fat” ears today, beginning at the present time. Permit yourself to hear the more profound substance this message conveys. Stop to excuse the apparently little yet significant issues that have the effect between your proceeded with dissatisfaction and you lose the fat reward.&lt;/p&gt;
+
+&lt;p&gt;On the off chance that you need any sort of help at all, simply reach us since 1) we give it a second thought, and 2) lose body fat help online is both expert and reasonable. Thus, don’t stress yourself over going through bunches of cash to lose fat.&lt;/p&gt;
+
+&lt;p&gt;Understanding the genuine significance of the stuff to lose fat requires acknowledgment, open ears, and activity. In this way, gain proficiency with your customized subtleties, accomplish the necessary work, in addition, to know unquestionably and safely practically about the stuff to lose fat.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;http://bit.ly/3ePUDA0&quot; target=&quot;_blank&quot;&gt;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Click To Learn More…&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/weight-loss-program-2-300.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 01 Mar 2020 00:00:00 +0330</pubDate>
+        <link>http://localhost:4000https://lifestylechange.netlify.app/losing-weight/2020/03/01/3-simple-steps-to-lose-body-fat/</link>
+        <guid isPermaLink="true">http://localhost:4000https://lifestylechange.netlify.app/losing-weight/2020/03/01/3-simple-steps-to-lose-body-fat/</guid>
+        
+        
+        <category>Losing-weight</category>
+        
+      </item>
+    
+      <item>
+        <title>Dieting for Health</title>
+        <description>&lt;p&gt;&lt;b&gt;Diet For Losing Weight&lt;/b&gt;
+ There is no more prominent motivation to diet for losing weight than for your own wellbeing and prosperity. Those of us who are overweight know better than most the dangers and potential outcomes that may result in the account of our weight. Much like people who are smokers, be that as it may, the dangers don’t generally appear to be so simple until we arrive at our own one-of-a-kind defining moment. Regardless of whether your dietary patterns are conceived of dependence on specific nourishments, an enthusiastic need, or long periods of educated conduct and molding things won’t change until you totally modify your dietary patterns and your way of life decisions.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/weightLoss3.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Eating less junk food for some has become a way of life all by itself with individuals quickly flip-slumping or yo-yo-ing starting with one eating routine then onto the next with little achievement and developing despondency over a sheer absence of results. In all actuality, until you choose to pardon yourself for your disappointments and get directly back on the cart, in a manner of speaking, after leaving a diet plan no &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;diet for losing weight&lt;/a&gt; is going to work anymore. A basic diet won’t mysteriously cause the pounds to vanish and continually denying yourself of those things you appreciate most may have a more adverse impact than a constructive outcome.&lt;/p&gt;
+
+&lt;p&gt;The main thing a great many people need to learn is that counting calories aren’t generally something to be thankful for. What the vast majority who are overweight need more than all else is to consolidate positive way of life changes into their day-by-day schedules.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+Individuals laugh at the idea of using the stairwell or stopping farther away but then those are totally conceivable techniques for working somewhat more physical movement into your day. On the off chance that those don't work for you what about figuring out how to move? Truly, there are fledgling move classes in many networks that will welcome and welcome moves everything being equal, sizes, and wellness levels on the off chance that you are eager to put forth the attempt. What an extraordinary method to get fit, gain some new useful knowledge, and have some good times without filling denied.
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/img/weight-loss-package.png&quot; /&gt;&lt;/a&gt;
+    &lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;Another incredible thing about action, for example, a dancing course (consider couples dancing with your life partner) is that you are not eating or enticed to eat during the time that you are taking a dance class. Another extraordinary thing is that you are consuming those calories you didn’t eat. In the event that moving isn’t your thing, take a stab at joining a walking club or finding another leisure activity.&lt;/p&gt;
+
+&lt;p&gt;Anything that gets you on your feet and away from the allurement of your fridge is something worth being thankful for with regards to counting calories and &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;weight reduction&lt;/a&gt;. You can’t lose a lot of weight by eating less junk food alone. You should consolidate physical fitness into your day-by-day schedule so as to accomplish those quick and outwardly staggering outcomes that numerous health food nuts are wanting to accomplish.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/fat-woman-on-scale.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Another entanglement with regards to abstaining from excessive food intake is that individuals surrender extremely rapidly. Similarly, as the outcomes are starting and advancing individuals become weary of the procedure or disappointed that they aren’t achieving enough emotional weight loss as fast as they had trusted and surrender all together separating one more disappointment when they could have made more prominent progress than at any other time in the event that they had stayed with their unique eating routine arrangement somewhat more.&lt;/p&gt;
+
+&lt;p&gt;One more thing you ought to recollect with regards to diet for &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;losing weight&lt;/a&gt; is that the scale can be your closest companion or your most exceedingly terrible foe when abstaining from excessive food intake. In the event that you are gauging yourself consistently in order to watch the scale tick off one more pound, you are damning yourself to disappointment. You will never accomplish the outcomes you are seeking after you on the off chance that you are going into burdensome episodes of Rocky Road or Chunky Monkey each night since you didn’t shed 10 pounds for the time being.&lt;/p&gt;
+
+&lt;p&gt;With regards to diet for losing weight, there are not many weight control plans that work. There are in any case, numerous ways of life changes that when rehearsed reliably and forcefully will work. The thing to recollect is that you are the person who must work since it is very improbable that any eating routine will.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;http://bit.ly/3ePUDA0&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot; aria-label=&quot;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Learn More... (opens in a new tab)&quot;&gt;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Click To Learn More...&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/weight-loss-program-2-300.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 22 Feb 2020 00:00:00 +0330</pubDate>
+        <link>http://localhost:4000https://lifestylechange.netlify.app/dieting-and-weight-loss/2020/02/22/dieting-for-health/</link>
+        <guid isPermaLink="true">http://localhost:4000https://lifestylechange.netlify.app/dieting-and-weight-loss/2020/02/22/dieting-for-health/</guid>
+        
+        
+        <category>Dieting-and-weight-loss</category>
+        
+      </item>
+    
+      <item>
+        <title>3 Hour Dieting</title>
+        <description>&lt;p&gt;&lt;b&gt;Fast Way Of Losing Weight&lt;/b&gt;
+With regards to weight loss, you will find that there are many fast ways of losing weight plans, weight reduction, and fitness programs on the market. It takes a very long time for some to turn into a contender and others stay a trick of the trade of sorts. One such ‘best kept’ mystery would be the 3 Hour Diet that was structured by Jorge Cruise. I am certain that there are many perusing along and laughing softly that it is extremely unlikely one can get in shape by eating like clockwork anyway the science behind the hypothesis is genuinely normal and Jorge Cruise is a pillar in the wellness business.&lt;/p&gt;
+
+&lt;p&gt;The long and shyness of this eating routine work with the information that on the off chance that you don’t take care of your body precisely and normally your body will go into what is called “starvation mode”. In this mode, your body clutches the fat instead of consuming it and expanding it for use. This implies your body is consuming muscle instead of fat to take the vitality it needs so as to work.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/4-weight-loss.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;With the 3 Hour Diet you won’t feel hungry constantly, actually, there are numerous who guarantee they are continually setting cautions and reminding themselves to eat. You will likewise gain proficiency with the correct nourishments to eat so as to accomplish the most ideal outcomes and fast way of &lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;losing weight&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;The key is in realizing which nourishments are directly for you when consuming fewer calories with this arrangement. You can buy the book The 3-Hour Diet by Jorge Cruise and you can join online for more data about the weight plan itself and how to fuse it into your bustling everyday practice.&lt;/p&gt;
+
+&lt;p&gt;I do suggest buying the book in the event that you are genuinely thinking about this as your strategy for abstaining from excessive food intake as there are numerous superb insights, tips, and deceives that are referenced in the book to assist you with propping things up regardless of how occupied and riotous your way of life might be. &lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;One thing you have to remember is that abstaining from excessive food intake with a program, for example, is no little duty. You have to adhere to the schedule however much as could be expected so as to accomplish the outcomes this arrangement is popular for. In the event that you aren’t eager to eat like clockwork, at that point this arrangement truly may not be the arrangement for you.&lt;/p&gt;
+
+&lt;p&gt;Something else, if this is something you would be keen on, I strongly suggest it. There are unique contemplations dependent on the sum you weigh as of now and the measure of weight you are planning to lose. It is ideal on the off chance that you are straightforward all through the procedure so as to accomplish the most ideal and most quick outcomes.&lt;/p&gt;
+
+&lt;div class=&quot;row&quot;&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+The case is that you can lose upwards of 10 pounds in the initial fourteen days and there are those that have professed to do only that again and again. This is an eating regimen that even numerous big names support for snappy and prompt outcomes. &lt;br /&gt;
+
+The great and the terrible around 3 hours slimming down is that it is compelling however takes an undeniable duty with respect to the one that is abstaining from excessive food intake. 
+    &lt;/div&gt;
+    &lt;div class=&quot;col-md-6&quot;&gt;
+&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/img/weight-loss-package.png&quot; /&gt;&lt;/a&gt;
+&lt;/div&gt;&lt;/div&gt;
+
+&lt;p&gt;This eating regimen is one that is surprising to the world. On the off chance that you haven’t known about it before now, if it’s not too much trouble set aside the effort to look at it and check whether this is something you could fuse into your life.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/18-weight-loss.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;The outcomes that have been accounted for because of this eating routine as completely wonderful and it is a fast way of losing weight. In the event that there was one eating regimen I would suggest above others for the individuals who loathe feeling hungry, it would be this eating regimen.&lt;/p&gt;
+
+&lt;h4&gt;&lt;a href=&quot;http://bit.ly/3ePUDA0&quot; target=&quot;_blank&quot; rel=&quot;noreferrer noopener&quot; aria-label=&quot;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Learn More... (opens in a new tab)&quot;&gt;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Click To Learn More...&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/weight-loss-program-3-300.jpg&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 22 Jan 2020 00:00:00 +0330</pubDate>
+        <link>http://localhost:4000https://lifestylechange.netlify.app/dieting-and-weight-loss/2020/01/22/3-hour-dieting/</link>
+        <guid isPermaLink="true">http://localhost:4000https://lifestylechange.netlify.app/dieting-and-weight-loss/2020/01/22/3-hour-dieting/</guid>
+        
+        
+        <category>Dieting-and-weight-loss</category>
+        
+      </item>
+    
+      <item>
+        <title>5 Easy Ways to Boost Your Metabolism</title>
+        <description>&lt;p&gt;How To Increase Your Metabolism&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;1- Don’t Skip Breakfast&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;The morning feast kicks off your digestion and assists with forestalling gorging later in the day. Some coffee/ espresso doesn’t count as breakfast – the caffeine and included sugar may give you a touch of vitality and stifle your craving for a brief period it makes certain to blow back into serious appetite and you will be bound to gorge later. Breakfast ought to incorporate complex starches like entire grain (granola or cereal), alongside some protein and fat (low-fat yogurt or milk), will keep your vitality levels even and hunger under wraps.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;2- Eat more often&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Another way, how to increase your metabolism is by starting eating each three to four hours or possibly four times each day. Eating much of the time balances out glucose, when glucose drops too low you need to eat… a great deal. By keeping your glucose stable you can control your craving and keep your metabolic rate high. At the point when you go numerous hours without eating your body will remunerate by easing back down to preserve vitality… this impact harms your weight reduction endeavors.&lt;/p&gt;
+
+&lt;p&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/diet-veg-fruits.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Protein will assist with lessening your hunger, it takes more vitality and effort to process, as a result, you feel full longer than eating starches alone. Exploration shows that eating more protein can assist you in getting more fit without cutting calories. Attempt these protein prospects: turkey on entire wheat; hummus and pita; vegan bean stew; foods grown from the ground; or protein café that contain at least 12 grams of protein.&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;4- Hold off on snacking&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;A large number of us get a nibble for brisk vitality when we are feeling tired. Be that as it may, don’t mistake genuine want weariness. On the off chance that you are feeling tired go for a 15-20 moment lively walk. This will raise your pulse and give you an increase in vitality. Line it up with a huge glass of cool water. On the off chance that you are really ravenous have a protein and complex starch-rich tidbit like; entire wheat wafers and nutty spread or cheddar.&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/img/weight-loss-package.png&quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;b&gt;5- Consume enough for your body’s needs&lt;/b&gt;&lt;/p&gt;
+
+&lt;p&gt;Eating too little eases back your body’s digestion a similar path eating to inconsistently does. On the off chance that you need to drop weight, don’t slice your calories too definitely. Rather, cut out a portion of the additional items in your eating routine – things like pop, juice, bundled merchandise, or candy. Handled nourishments will in general be high in fat and calories and low in nutrients, minerals, and fiber, these 5 methods show how to increase your metabolism.&lt;/p&gt;
+
+&lt;h5&gt; &amp;gt;&amp;gt;&amp;gt;&amp;gt; Editor Choice &amp;lt;&amp;lt;&amp;lt;&amp;lt; &lt;/h5&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;https://shrsl.com/2u6il&quot;&gt; Check out this Vegan Multivitamin &lt;/a&gt;, 100% natural and organic vegetables, it contains 26 vitamins, including Vitamins A, B1, B2 C, D2, E and K1, FDA approved, these are some of the benefits:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Helps Promote Immunity &lt;/li&gt;
+ &lt;li&gt;Improved Eye-Vision&lt;/li&gt;
+ &lt;li&gt;Promotes Joint Support&lt;/li&gt;
+ &lt;li&gt;Great Increase in Energy&lt;/li&gt;
+ &lt;li&gt;Helps Suppress Appetite&lt;/li&gt;
+ &lt;li&gt;Promotes Sharp Memory&lt;/li&gt;
+ &lt;li&gt;Prevents Hair Damage&lt;/li&gt;
+&lt;li&gt;Improvement of Digestive System&lt;/li&gt;
+&lt;li&gt;Support Weight Loss&lt;/li&gt;
+&lt;li&gt;Reduces Constipation&lt;/li&gt;
+&lt;li&gt;Prevents Cholesterol&lt;/li&gt;
+&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;https://shrsl.com/2u6il&quot;&gt;and much more...&lt;/a&gt;&lt;/ul&gt;
+&lt;p&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a rel=&quot;noopener noreferrer nofollow&quot; target=&quot;_blank&quot; href=&quot;http://bit.ly/3ePUDA0&quot;&gt;&lt;img alt=&quot;weight loss program&quot; src=&quot;../../../../../assets/images/weight-loss-program-3-300.jpg&quot; /&gt;&lt;/a&gt;&lt;br /&gt;
+&lt;a rel=&quot;noreferrer noopener&quot; href=&quot;http://bit.ly/3ePUDA0&quot; target=&quot;_blank&quot;&gt;21,748 Women, 374,701lbs lost- This Changes EVERYTHING! Click To Learn More…&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 03 Jan 2020 00:00:00 +0330</pubDate>
+        <link>http://localhost:4000https://lifestylechange.netlify.app/vitamins-and-minerals/2020/01/03/5-easy-ways-to-boost-your-metabolism/</link>
+        <guid isPermaLink="true">http://localhost:4000https://lifestylechange.netlify.app/vitamins-and-minerals/2020/01/03/5-easy-ways-to-boost-your-metabolism/</guid>
+        
+        
+        <category>Vitamins-and-minerals</category>
+        
+      </item>
+    
   </channel>
 </rss>
