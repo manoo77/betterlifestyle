@@ -1,1 +1,1 @@
-Sitemap: /https://betterlifestyle.netlify.app/sitemap.xml
+Sitemap: https://betterlifestyle.netlify.app/sitemap.xml
