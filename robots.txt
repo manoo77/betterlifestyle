@@ -1,1 +1,4 @@
+User-agent: *
+Allow: /
 Sitemap: https://betterlifestyle.netlify.app/sitemap.xml
+Host: https://betterlifestyle.netlify.app
